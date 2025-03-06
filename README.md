@@ -1,6 +1,6 @@
 # Geschwindigkeitsanzeigetafel
 
-Nachbau einer Geschwindigkeitsanzeigetafel für Lego. 
+Nachbau einer Geschwindigkeitsanzeigetafel für Lego-Steine.  
 
 Geschwindigkeitsanzeigeanlagen dienen dazu, Fahrzeugführer durch die große Anzeige der gemessenen Geschwindigkeit auf ihre gegebenenfalls zu hohe Geschwindigkeit aufmerksam zu machen. 
 
