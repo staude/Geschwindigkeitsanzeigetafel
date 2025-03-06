@@ -8,6 +8,7 @@ Geschwindigkeitsanzeigeanlagen dienen dazu, Fahrzeugführer durch die große Anz
 
 Für eine Schaufenster-Dekoration wollte ich eine solche für einen kleinen Aufbau aus Klemmbausteinen haben.
 
+
 Hier der Probeaufbau. 
 ![IMG_1871](https://user-images.githubusercontent.com/870951/202530792-d132ee78-d403-4362-8d60-cbb4ed339159.JPG)
 ![IMG_1872](https://user-images.githubusercontent.com/870951/202530805-d6c787ee-abae-4d0f-849e-383be9f25498.JPG)
